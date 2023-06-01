@@ -1,0 +1,26 @@
+{
+  "name": "gunpla",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+ "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/20200723/mongodb-gunpladb.git"
+  },
+  "author": "dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/20200723/mongodb-gunpladb/issues"
+  },
+  "homepage": "https://github.com/20200723/mongodb-gunpladb#readme",
+  "dependencies": {
+    "apollo-server": "^3.12.0",
+    "graphql": "^16.6.0",
+    "mongoose": "^7.2.2",
+    "nodemon": "^2.0.22"
+  }
+}
